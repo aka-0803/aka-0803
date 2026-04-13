@@ -1,76 +1,118 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Akash%20Bahadur%20Singh&animation=fadeIn&type=waving&color=gradient&customColorList=6,11,20&height=130&fontSize=42&fontAlignY=68&desc=Backend%20Engineer%20%7C%20Node.js%20%7C%20TypeScript%20%7C%20NestJS&descAlignY=85&descSize=16"/>
+</p>
 
-###
-
-<p align="left">My name is Akash Bahadur Singh and I'm a full stack developer, from NIT Durgapur.</p>
-
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">👋 Hi, I'm Akash Bahadur Singh, a passionate web developer hailing from Chandauli, Uttar Pradesh. Currently pursuing my B.Tech at NIT Durgapur in West Bengal, I am dedicated to honing my skills and growing my career in the field of web development.<br>📚 From my early days at Navy Children School to my current academic journey, I have always embraced a proactive approach to learning and self-improvement. My interest in web development has led me to explore projects in React, and I am constantly seeking new opportunities to expand my knowledge and expertise in this area.<br>🏃‍♂️ Beyond coding, I find joy in physical activities such as running and swimming, which keep me energized and motivated. I am also an avid sports enthusiast and enjoy playing various sports like football, badminton, and basketball.</p>
-
-###
-
-<h2 align="left">I code with</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40" alt="materialui logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40" alt="ubuntu logo"  />
-</div>
-
-###
-
-<div align="left">
-  <a href="www.linkedin.com/in/akash-bahadur-singh" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+<p align="center">
+  <a href="https://linkedin.com/in/akash-bahadur-singh" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>&nbsp;
+  <a href="mailto:akashbahadursingh5@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>&nbsp;
+  <a href="https://github.com/aka-0803" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://twitter.com/AkashbahadurSi5" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  </a>
-  <a href="https://www.instagram.com/akas1457/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-  <a href="akashbahadursingh5@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-</div>
+</p>
 
-###
+<br/>
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/aka-0803/count.svg?"  />
-</div>
+---
 
-###
+### 👨‍💻 About Me
+
+```yaml
+name    : Akash Bahadur Singh
+role    : Associate Software Engineer @ Truein
+exp     : ~2 years (Truein) + Samsung R&D Intern
+college : NIT Durgapur — B.Tech CSE, 2024 | CGPA: 8.44
+focus   : Backend Engineering — REST APIs, Auth, Distributed Systems
+building: Multi-Tenant SaaS Billing Engine (NestJS + Redis + Prisma)
+location: Pune, India
+open_to : Backend roles | Bangalore / Hyderabad / Remote
+```
+
+---
+
+### ⚡ What I've Shipped at Scale
+
+- 🔐 **Enterprise SAML SSO** — Federated authentication rollout for clients with **10,000+ users**
+- 🚀 **65% API latency drop** — via Redis caching + MySQL indexing on high-traffic endpoints
+- 🏗️ **Data pipelines** handling **10,000+ records/day**, cutting product incidents by **40%**
+- 🤖 **Internal automation tools** that slashed support tickets by **70%**
+- 🔗 Integrated **Zoho Books · Hikvision · Microsoft Entra ID · Google Maps APIs**
+- 👥 Attendance backend powering **4,000+ daily enterprise users** via cron-based REST integrations
+
+---
+
+### 🛠️ Tech Stack
+
+**Core Backend**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,ts,nestjs,express,js&perline=8" />
+</p>
+
+<br/>
+
+**Databases & Cache**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,redis,mongodb,postgres&perline=8" />
+</p>
+
+<br/>
+
+**Tools, Languages & Frontend**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,linux,python,react,github&perline=8" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=aka-0803&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+</p>
+
+---
+
+### 🚀 Featured Projects
+
+**⚙️ Backend & Systems**
+
+| Project | Stack | What it does |
+|---------|-------|--------------|
+| [**Multi-Tenant SaaS Billing Engine**](https://github.com/aka-0803) | NestJS · Prisma · MySQL · Redis | Subscription mgmt, usage tracking & invoice generation — production-grade SaaS billing architecture |
+| [**Connect**](https://github.com/aka-0803) | Node.js · Express · MySQL | REST API backend with JWT auth, relational schema design & query optimisation |
+
+<br/>
+
+**🌐 Web & Full-Stack**
+
+| Project | Stack | What it does |
+|---------|-------|--------------|
+| [**Connect (Frontend)**](https://github.com/aka-0803) | React.js · CSS | Social platform UI with real-time feed, auth flows & responsive design |
+
+<br/>
+
+**🤖 ML & Data**
+
+| Project | Stack | What it does |
+|---------|-------|--------------|
+| [**Real Estate Price Prediction**](https://github.com/aka-0803/real-estate-price-prediction) | Python · Flask · scikit-learn | End-to-end ML web app — trained regression model served via Flask REST API for real-time property price predictions |
+
+---
+
+<p align="center">
+  <i>I build backend systems that are fast, reliable, and built for scale.</i><br/>
+  <i>Always open to interesting backend problems — let's connect.</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=90&section=footer"/>
+</p>
