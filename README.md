@@ -1,5 +1,8 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Akash%20Bahadur%20Singh&animation=fadeIn&type=waving&color=gradient&customColorList=6,11,20&height=130&fontSize=42&fontAlignY=68&desc=Backend%20Engineer%20%7C%20Node.js%20%7C%20TypeScript%20%7C%20NestJS&descAlignY=85&descSize=16"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?text=Akash%20Bahadur%20Singh&animation=fadeIn&type=waving&color=gradient&customColorList=6,11,20&height=160&fontSize=42&fontAlignY=52&desc=Backend%20Engineer%20%7C%20Node.js%20%7C%20TypeScript%20%7C%20NestJS&descAlignY=76&descSize=16&fontColor=ffffff&descFontColor=ffffff"/>
+    <img src="https://capsule-render.vercel.app/api?text=Akash%20Bahadur%20Singh&animation=fadeIn&type=waving&color=0:dbeafe,100:c7d2fe&height=160&fontSize=42&fontAlignY=52&desc=Backend%20Engineer%20%7C%20Node.js%20%7C%20TypeScript%20%7C%20NestJS&descAlignY=76&descSize=16&fontColor=1e1b4b&descFontColor=3730a3" alt="Akash Bahadur Singh"/>
+  </picture>
 </p>
 
 <p align="center">
@@ -73,9 +76,6 @@ open_to : Backend roles | Bangalore / Hyderabad / Remote
 ### 📊 GitHub Stats
 
 <p align="center">
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=aka-0803&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
 </p>
 
@@ -114,5 +114,8 @@ open_to : Backend roles | Bangalore / Hyderabad / Remote
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=90&section=footer"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=90&section=footer"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:dbeafe,100:c7d2fe&height=90&section=footer" alt="footer"/>
+  </picture>
 </p>
