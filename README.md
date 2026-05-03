@@ -29,9 +29,9 @@ role    : Associate Software Engineer @ Truein
 exp     : ~2 years (Truein) + Samsung R&D Intern
 college : NIT Durgapur — B.Tech CSE, 2024 | CGPA: 8.44
 focus   : Backend Engineering — REST APIs, Auth, Distributed Systems
-building: Multi-Tenant SaaS Billing Engine (NestJS + Redis + Prisma)
+built   : Multi-Tenant SaaS Billing Engine → NestJS · Prisma · MySQL · Redis · BullMQ · AWS S3 · EC2 · Docker · CI/CD
 location: Pune, India
-open_to : Backend roles | Bangalore / Hyderabad / Remote
+open_to : Backend roles | Bangalore / Hyderabad / Pune / Remote
 ```
 
 ---
@@ -65,7 +65,15 @@ open_to : Backend roles | Bangalore / Hyderabad / Remote
 
 <br/>
 
-**Tools, Languages & Frontend**
+**Cloud & DevOps**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,aws,githubactions&perline=8" />
+</p>
+
+<br/>
+
+**Tools & Other**
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,linux,python,react,github&perline=8" />
@@ -87,7 +95,7 @@ open_to : Backend roles | Bangalore / Hyderabad / Remote
 
 | Project | Stack | What it does |
 |---------|-------|--------------|
-| [**Multi-Tenant SaaS Billing Engine**](https://github.com/aka-0803) | NestJS · Prisma · MySQL · Redis | Subscription mgmt, usage tracking & invoice generation — production-grade SaaS billing architecture |
+| [**Multi-Tenant SaaS Billing Engine**](https://github.com/aka-0803/saas-billing-engine) | NestJS · Prisma · MySQL · Redis · BullMQ · AWS S3/EC2 · Docker · GitHub Actions | Production-grade multi-tenant billing backend — subscriptions, usage-based pricing, async invoice PDF generation (BullMQ + S3), plan-aware rate limiting & automated CI/CD on AWS EC2 |
 | [**Connect**](https://github.com/aka-0803) | Node.js · Express · MySQL | REST API backend with JWT auth, relational schema design & query optimisation |
 
 <br/>
